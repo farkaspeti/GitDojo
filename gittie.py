@@ -3,3 +3,10 @@ def introduce():
 
 
 introduce()
+
+
+def joke():
+    print("You think you are funny? -_-")
+
+
+joke()
